@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **TypeScript and DevOps**
 
-- 💬 Ask me about **anything JavaScript and Software Development**
+- 💬 Ask me about **JavaScript and Software Development**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
